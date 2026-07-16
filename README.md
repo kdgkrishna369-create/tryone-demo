@@ -1,4 +1,4 @@
 # tryone-demo
 This is my first Git Repository.
 <br>
-Author- Krishna Dixit
+Author- Krishna Dixit(Learning)
